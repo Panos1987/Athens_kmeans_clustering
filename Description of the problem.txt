@@ -19,7 +19,7 @@ v)	reduction in the number of the product’s consumers or users and the entranc
 	effective product.
 The above stages of a product’s life cycle are commonly represented graphically by sigmoid curves.
 
-In this project, we classify the municipalities of the metropolitan area of the city of Athens by the method 
+In this project, we classify the municipalities in the metropolitan area of the city of Athens by the method 
 of k-means clustering depending on the ratio of the number of ATMs in each municipality over the population 
 of each municipality as a criterion. The motivation to select this subject comes from the increased demand for 
 automated transactions in Greece since 2015 and the simultaneous reduction in the network of ATMs. 
