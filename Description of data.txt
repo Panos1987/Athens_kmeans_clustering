@@ -1,0 +1,16 @@
+Description of data
+
+The data that we are going to use for our analysis are for the following indicators:
+- resident population per municipality of the metropolitan area of the city of Athens. The relevant data have been 
+  obtained from the “City Population” website (City Population). The sample size includes 40 municipalities. The 
+  original source of population number is the Population Census in 2011.
+- number of ATMs per municipality, which are going to be obtained from Foursquare API (Foursquare).
+
+In the next section with regard to the methodology that we are going to use, first we are going to present 
+descriptive statistics of the above datasets in order to have a general view about the allocation of population 
+and the number of ATMs among municipalities in the greater city of Athens, and second we are going to make a 
+k-means cluster analysis in order to classify municipalities in the greater city of Athens based on the ratio given 
+by the number of ATMs in each municipality over the population in each municipality. All data process and 
+statistical analysis for the purposes of the project are going to be performed on notebook in IBM’s Watson platform 
+by using Python programming language and the code will be available on Github repository. Every stage of 
+our analysis will be described in detail in the next section.  
