@@ -1,0 +1,33 @@
+Description of the problem
+
+Capital controls which were imposed in 2015 during the financial crisis in Greece lead to 
+a great change in the means and the methods of transactions which were most commonly used until 
+that year. Up to 2015, the majority of the Greek people used to make payments mostly through cash or checks. 
+After capital controls, it is observed that the Greek people tended towards automated transactions 
+through ATMs, POS, and e-banking.
+
+However, it is remarkable that despite the rapid growth of automated transactions in the Greek economy, 
+there is a decrease in the number of Automated Transaction Machines (ATMs) since 2010 (Hellenic Bank 
+Association, 2017). This could make sense, because we should take into account that in economic thought 
+ATMs are considered as products which are used as a means of a process and every product’s life cycle is 
+described generally by five subsequent stages (Wikipedia):
+i)	development, 
+ii)	entrance in the market, 
+iii)	rapid growth in the number of its consumers or users, 
+iv)	a maximum point of its capacity that is used in the market and 
+v)	reduction in the number of the product’s consumers or users and the entrance of a new and more 
+	effective product.
+The above stages of a product’s life cycle are commonly represented graphically by sigmoid curves.
+
+In this project, we classify the municipalities of the metropolitan area of the city of Athens by the method 
+of k-means clustering depending on the ratio of the number of ATMs in each municipality over the population 
+of each municipality as a criterion. The motivation to select this subject comes from the increased demand for 
+automated transactions in Greece since 2015 and the simultaneous reduction in the network of ATMs. 
+At this point, we have to comment that about 3 million people reside in the metropolitan area of Athens, 
+which is equal to about the 1/3 of total population in Greece, and therefore, the network of ATM infrastructure 
+in Athens is the greatest in the country.
+
+The aim of the project is to provide information through its results which can be useful in strategy planning 
+and decision making for the Bank of Greece, the European Central Bank (ECB), and domestic organizations 
+operating in the banking sector with regard to their investments for automated transaction terminals 
+and their cost minimization. 
