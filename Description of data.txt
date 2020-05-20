@@ -1,0 +1,12 @@
+Description of data
+
+The data that we used for our analysis consist of the following:
+- number of neighborhoods in the city center of Athens, which are obtained from Foursquare API (Foursquare). The 
+  sample includes 22 neighborhoods.
+- number of parking stations in the city center of Athens, which are obtained from Foursquare API (Foursquare).
+
+We are going to make a k-means cluster analysis in order to classify neighborhoods in the city center of Athens 
+based on the number of parking stations in the same geographical area. All data process and statistical analysis 
+for the purposes of the project are going to be performed on a 64-bit Jupyter notebook by using Python 3.6 
+programming language. Every stage of our analysis is going to be described in detail in the next section in Part 2.
+  
