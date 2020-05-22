@@ -1,10 +1,11 @@
 Description of the problem
 
 In this project, we classify the neighborhoods in the city center of Athens by the method of k-means clustering 
-depending on the number of parking stations as a criterion. The motivation to select this subject comes from the 
-increasing demand for limited parking space in an urban area in which about 700k people reside and about 1.5m people 
-work. Thus, we realize the high daily transport activity in the city center of Athens and its effects on the greater 
-economy and the quality of daily life.
+depending on the categories of parking stations as a criterion. The most common categories of parking stations are 
+common parkings, hotel parkings, and university or school parkings. The motivation to select this subject comes from 
+the increasing demand for limited parking space in an urban area in which about 700k people reside and about 1.5m 
+people work. Thus, we realize the high daily transport activity in the city center of Athens and its effects on the 
+greater economy and the quality of daily life.
 
 The aim of the project is to provide information through its results which can be useful in strategy planning and 
 decision making for the Greek Ministry of Infrastructure and Transport, the authorities of the Municipality of 
