@@ -3,7 +3,7 @@ Description of data
 The data that we used for our analysis consist of the following:
 - number of neighborhoods in the city center of Athens, which are obtained from Foursquare API (Foursquare). The 
   sample includes 22 neighborhoods.
-- number of parking stations in the city center of Athens, which are obtained from Foursquare API (Foursquare).
+- categories of parking stations in the city center of Athens, which are obtained from Foursquare API (Foursquare).
 
 We are going to make a k-means cluster analysis in order to classify neighborhoods in the city center of Athens 
 based on the categories of parking stations in the same geographical area. All data process and statistical analysis 
